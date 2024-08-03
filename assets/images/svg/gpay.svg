@@ -1,0 +1,19 @@
+<svg id="gpay" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="28" viewBox="0 0 58 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.15" y1="0.408" x2="0.909" y2="0.622" gradientUnits="objectBoundingBox">
+      <stop offset="0.2" stop-color="#d93025"/>
+      <stop offset="0.6" stop-color="#ea4335"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.07" y1="0.363" x2="0.99" y2="0.575" gradientUnits="objectBoundingBox">
+      <stop offset="0.2" stop-color="#4285f4"/>
+      <stop offset="0.8" stop-color="#1b74e8"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_72" data-name="Rectangle 72" width="58" height="28" rx="3" fill="#fff"/>
+  <g id="Group_5475" data-name="Group 5475" transform="translate(6.148 -0.649)">
+    <path id="Google_Red" d="M383.556,150.2l5.73-9.925,3.12,1.8a4.213,4.213,0,0,1,1.543,5.756l-3.226,5.588a2.634,2.634,0,0,1-3.6.964l-2.9-1.672a1.838,1.838,0,0,1-.673-2.511Z" transform="translate(-360.474 -133.515)" fill="url(#linear-gradient)"/>
+    <path id="Google_Yellow" d="M169.721,203.537l-7.141,12.344,3.126,1.8a4.226,4.226,0,0,0,5.767-1.543l4.632-8.009a2.63,2.63,0,0,0-.965-3.6l-2.9-1.672a1.844,1.844,0,0,0-2.517.676Z" transform="translate(-147.263 -193.723)" fill="#fdbd00"/>
+    <path id="Google_Green" d="M165.083,83.862l-2.208-1.275a5.268,5.268,0,0,0-7.195,1.928l-4.1,7.095a2.633,2.633,0,0,0,.964,3.6l2.208,1.275a2.633,2.633,0,0,0,3.6-.964l4.89-8.471h0A3.678,3.678,0,0,1,168.27,85.7" transform="translate(-136.271 -77.107)" fill="#2da94f"/>
+    <path id="Google_Blue" d="M40.206,172.179l-2.438-1.4a2.275,2.275,0,0,0-3.1.829l-2.924,5.052a5.192,5.192,0,0,0,1.909,7.1l1.856,1.07,2.25,1.3.977.562a3.992,3.992,0,0,1-1.225-5.317l.757-1.307,2.772-4.791a2.262,2.262,0,0,0-.83-3.1Z" transform="translate(-20.189 -162.669)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

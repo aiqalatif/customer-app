@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="noti_cart" transform="translate(-23.206 -13.488)">
+    <rect id="Rectangle_2634" data-name="Rectangle 2634" width="18" height="18" transform="translate(23.206 13.487)" fill="none"/>
+    <g id="Group_5085" data-name="Group 5085" transform="translate(23.708 16.756)">
+      <g id="Icon_ionic-ios-cart" data-name="Icon ionic-ios-cart" transform="translate(0 0)">
+        <path id="Path_5837" data-name="Path 5837" d="M11.372,29.03a.9.9,0,1,1-.9-.9A.9.9,0,0,1,11.372,29.03Z" transform="translate(-6.379 -15.955)" fill="#fc6a57"/>
+        <path id="Path_5838" data-name="Path 5838" d="M27.157,29.03a.9.9,0,1,1-.9-.9A.9.9,0,0,1,27.157,29.03Z" transform="translate(-14.116 -15.955)" fill="#fc6a57"/>
+        <path id="Path_5839" data-name="Path 5839" d="M18.507,6.948a.214.214,0,0,0-.189-.152L6.467,5.659a.365.365,0,0,1-.273-.17,3.676,3.676,0,0,0-.444-.672c-.28-.339-.808-.329-1.776-.336a.529.529,0,0,0-.593.509A.519.519,0,0,0,3.95,5.5a4.869,4.869,0,0,1,.946.069c.171.05.309.329.36.571a.013.013,0,0,0,0,.011c.007.043.073.369.073.372l1.454,7.643a2.8,2.8,0,0,0,.527,1.289,1.456,1.456,0,0,0,1.2.586h8.609a.516.516,0,0,0,.524-.484.5.5,0,0,0-.509-.527H8.505a.426.426,0,0,1-.3-.1,1.623,1.623,0,0,1-.418-.939l-.158-.858a.02.02,0,0,1,.015-.022l10.1-1.7a.212.212,0,0,0,.178-.188l.582-4.183A.2.2,0,0,0,18.507,6.948Z" transform="translate(-3.382 -4.477)" fill="#fc6a57"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 347 161" style="enable-background:new 0 0 347 161;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{opacity:0.5;fill:url(#Path_6382_00000149364322046735480150000010330583486640261273_);}
+</style>
+<g id="sliderph" transform="translate(18501 13415)">
+	<rect id="sliderph-2" x="-18501" y="-13415" class="st0" width="347" height="161"/>
+	
+		<linearGradient id="Path_6382_00000062905395805313930230000013988822200597721217_" gradientUnits="userSpaceOnUse" x1="-18867.0508" y1="-12795.5742" x2="-18866.8066" y2="-12795.8174" gradientTransform="matrix(292.443 0 0 -317.297 5499175 -4073372.25)">
+		<stop  offset="0" style="stop-color:#FFBD69"/>
+		<stop  offset="1" style="stop-color:#FF6363"/>
+	</linearGradient>
+	<path id="Path_6382" style="opacity:0.5;fill:url(#Path_6382_00000062905395805313930230000013988822200597721217_);" d="
+		M-18292-13371.1v67.1c0,1.1-0.9,2-2,2l0,0h-10.4l-3.4,6v-36.8l0,0v-27.9l0,0l-19.1,12.4l0,0l-7.7-5l-0.5-0.3l-7.2-4.7l-3.7-2.4
+		v40.2l11.4,6.8v-25.9l0,0l7.7,5l0,0l7.7-5v37.6h-41.9c-1.1,0-2-0.9-2-2v-67.1c0-1.1,0.9-2,2-2l0,0h67.1
+		C-18292.9-13373.1-18292-13372.2-18292-13371.1C-18292-13371.1-18292-13371.1-18292-13371.1z"/>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="email" transform="translate(-128 -1267)">
+    <rect id="Rectangle_2687" data-name="Rectangle 2687" width="20" height="20" transform="translate(128 1267)" fill="none"/>
+    <g id="mail" transform="translate(128.569 1270.891)">
+      <g id="Group_5256" data-name="Group 5256" transform="translate(0 0)">
+        <path id="Path_5946" data-name="Path 5946" d="M17.773,85.333H.961A.964.964,0,0,0,0,86.294V96.862a.964.964,0,0,0,.961.961H17.774a.964.964,0,0,0,.961-.961V86.294A.964.964,0,0,0,17.773,85.333Zm-.361.719L9.92,91.672a1,1,0,0,1-1.105,0l-7.493-5.62Zm-4,5.992,4.083,5.043c0,.005.009.009.014.014H1.227l.014-.014,4.083-5.043a.36.36,0,1,0-.56-.454L.721,96.586V86.5l7.662,5.745a1.72,1.72,0,0,0,1.969,0L18.013,86.5V96.586L13.97,91.591a.36.36,0,1,0-.56.454Z" transform="translate(0 -85.333)" fill="#fc6a57"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="28" viewBox="0 0 58 28">
+  <g id="midtrans" transform="translate(2.704 -0.07)">
+    <rect id="Rectangle_72" data-name="Rectangle 72" width="58" height="28" rx="3" transform="translate(-2.704 0.07)" fill="none"/>
+    <g id="midtrans_only_logo" data-name="midtrans only logo" transform="translate(36.227 -1082.07)">
+      <rect id="Rectangle_72-2" data-name="Rectangle 72" width="20" height="20" rx="3" transform="translate(-19.931 1086.14)" fill="none"/>
+      <path id="Path_404" data-name="Path 404" d="M1.324,16.157A1.324,1.324,0,0,1,0,14.833V5.2a1.324,1.324,0,1,1,2.648,0v9.633a1.324,1.324,0,0,1-1.324,1.324" transform="translate(-19.2 1086.119)" fill="#89c8e9"/>
+      <path id="Path_405" data-name="Path 405" d="M17.214,16.157a1.324,1.324,0,0,1-1.324-1.324V5.207a1.324,1.324,0,1,1,2.648,0v9.626a1.324,1.324,0,0,1-1.324,1.324" transform="translate(-19.2 1086.119)" fill="#0eaedd"/>
+      <path id="Path_406" data-name="Path 406" d="M9.269,20.021A1.324,1.324,0,0,1,7.945,18.7V1.345a1.324,1.324,0,1,1,2.648,0V18.7a1.324,1.324,0,0,1-1.324,1.324" transform="translate(-19.2 1086.119)" fill="#2e80c3"/>
+    </g>
+  </g>
+</svg>
