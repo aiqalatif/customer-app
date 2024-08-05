@@ -54,7 +54,7 @@
         android:allowBackup="false"
         android:fullBackupOnly="false"
         android:icon="@mipmap/ic_launcher"
-        android:label="eShop Multi"
+        android:label="DsiStars"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true">
 

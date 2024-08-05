@@ -616,7 +616,7 @@ class _SendOtpState extends State<SendOtp> with TickerProviderStateMixin {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      getLogo(),
+                      // getLogo(),
                       signUpTxt(),
                       verifyCodeTxt(),
                       setCodeWithMono(),

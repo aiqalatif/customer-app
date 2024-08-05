@@ -543,7 +543,7 @@ class _SignUpPageState extends State<SignUp> with TickerProviderStateMixin {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    getLogo(),
+                    // getLogo(),
                     registerTxt(),
                     signUpSubTxt(),
                     setUserName(),

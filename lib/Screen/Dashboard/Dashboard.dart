@@ -374,12 +374,15 @@ class DashboardPageState extends State<Dashboard>
       centerTitle: false,
       automaticallyImplyLeading: false,
       backgroundColor: Theme.of(context).colorScheme.white,
-      title: /* _selBottom == 0
+      // ignore: prefer_single_quotes
+      title: const Padding(padding: EdgeInsetsDirectional.only(start: 10, end: 10),
+        child:   Text("DsiStars",style: TextStyle(color:colors.primary,fontSize: 25),)),
+      /* _selBottom == 0
           ? */
-          SvgPicture.asset(
-        DesignConfiguration.setSvgPath('titleicon'),
-        height: 40,
-      ),
+      //     SvgPicture.asset(
+      //   DesignConfiguration.setSvgPath('titleicon'),
+      //   height: 40,
+      // ),
       /* : Text(
               title!,
               style: const TextStyle(

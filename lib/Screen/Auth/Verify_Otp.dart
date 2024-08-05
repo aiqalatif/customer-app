@@ -475,7 +475,7 @@ class _MobileOTPState extends State<VerifyOtp> with TickerProviderStateMixin {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              getLogo(),
+              // getLogo(),
               monoVarifyText(),
               otpText(),
               mobText(),

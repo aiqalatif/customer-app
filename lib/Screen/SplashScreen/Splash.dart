@@ -136,12 +136,15 @@ class _SplashScreen extends State<Splash> with TickerProviderStateMixin {
                   height: double.infinity,
                   decoration: DesignConfiguration.back(),
                   child:  Center(
-                    child: SvgPicture.asset(
-                  DesignConfiguration.setSvgPath('splashlogo'),
-                  // fit: BoxFit.fill,
-                  width: 150,
-                   height: 150,
-                ),
+                    child:Image.asset("assets/images/png/applogo.jpg", 
+                      width: 100,
+                   height: 120,),
+                //      SvgPicture.asset(
+                //   DesignConfiguration.setSvgPath('splashlogo'),
+                //   // fit: BoxFit.fill,
+                //   width: 150,
+                //    height: 150,
+                // ),
                     // AppLogo(
                     //   width: 150,
                     //   height: 150,

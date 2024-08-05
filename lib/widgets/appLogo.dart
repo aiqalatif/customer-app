@@ -19,13 +19,21 @@ class AppLogo extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SvgPicture.asset(
-      DesignConfiguration.setSvgPath('homelogo'),
-      alignment: Alignment.center,
-      height: width ?? 90,
+     return  Image.asset(
+      "assets/images/png/notification.png",
+         height: width ?? 90,
       width: height ?? 90,
       fit: BoxFit.contain,
-      colorFilter: colorFilter,
-    );
+
+     ) ;
+    // SvgPicture.asset(
+    //   DesignConfiguration.setSvgPath('homelogo'),
+    //   alignment: Alignment.center,
+    //   height: width ?? 90,
+    //   width: height ?? 90,
+    //   fit: BoxFit.contain,
+    //   colorFilter: colorFilter,
+    // );
+   
   }
 }

@@ -10,11 +10,11 @@ import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 //Your application name
-const String appName = 'eShop';
+const String appName = 'DsiStars';
 
 //please add your panel's API base URL here (you can find from settings->client APIs)
-const String baseUrl = 'http://192.168.18.5:8080/Code/app/v1/api/';
-const String chatBaseUrl = 'http://192.168.18.5:8080/Code/app/v1/Chat_Api/';
+const String baseUrl = 'https://admin.dsistars.com/app/v1/api/';
+const String chatBaseUrl = 'https://admin.dsistars.com/app/v1/Chat_Api/';
 
 //for codecanyon demo app only, don't change it
 const bool isDemoApp = false;

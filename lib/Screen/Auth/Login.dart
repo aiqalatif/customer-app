@@ -1143,7 +1143,7 @@ class _LoginPageState extends State<Login> with TickerProviderStateMixin {
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
                           skipSignInBtn(),
-                          getLogo(),
+                          // getLogo(),
                           signInTxt(),
                           signInSubTxt(),
                           setMobileNo(),

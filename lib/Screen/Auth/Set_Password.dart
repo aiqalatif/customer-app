@@ -368,7 +368,7 @@ class _LoginPageState extends State<SetPass> with TickerProviderStateMixin {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      getLogo(),
+                      // getLogo(),
                       forgotpassTxt(),
                       setPass(),
                       setConfirmpss(),

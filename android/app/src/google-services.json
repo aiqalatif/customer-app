@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "834729104377",
+    "project_id": "customerapp-fa397",
+    "storage_bucket": "customerapp-fa397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834729104377:android:8e4a3743bbcfefa328a328",
+        "android_client_info": {
+          "package_name": "eShop.multivendor.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834729104377-feql5rsp4uovbgs9qu21pkvrf8f379hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57iQsOafuJJFAqnA8Ck-iSnPUDK327KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834729104377-feql5rsp4uovbgs9qu21pkvrf8f379hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834729104377-u0vsvg6vmafff6c64t503so1j5oqh6a5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wrteam.eshop.multivendor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
